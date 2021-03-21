@@ -9,7 +9,7 @@
 Welcome to my github:
 
 - 🔭 I’m currently working on Fake News Detector 
-- 🌱 I’m currently learning how to p 
+- 🌱 I’m currently learning about Tsunamis
 - 💬 Ask me about books 
 - 📫 How to reach me: @mymy1d on Twitter
 - 😄 Pronouns: She/Her
