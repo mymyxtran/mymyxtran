@@ -8,8 +8,8 @@
 
 Welcome to my github:
 
-- 🙇🏻‍♀️📚 I'm currently a CompEng Student @ UofT
-- - 🔭 I’m currently working on Fake News Detector 
+- 📚 I'm currently a CompEng Student @ UofT
+- 🔭 I’m currently working on Fake News Detector 
 - 🌱 I’m currently learning about Tsunamis 
 - 💬 Ask me about my favourite films and books 
 - 😄 Pronouns: She/Her
