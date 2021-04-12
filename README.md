@@ -11,5 +11,5 @@ Welcome to my github:
 
 - 📚 I'm a CompEng Student @ UofT
 - 🚨 I’m currently working on Fake News Detector 🔭
-- 💬 Ask me about how I like to be creative 
+- 💬 Ask me about sports
 - ⚡ Fun fact: I bite ice cream 🍦
