@@ -10,6 +10,6 @@
 Welcome to my github:
 
 - 📚 I'm a CompEng Student @ UofT
-- 🚨 I’m currently working on Fake News Detector 🔭
+- 🚨 I built a Fake News Detector 🔭
 - 💬 Ask me about sports
 - ⚡ Fun fact: I bite ice cream 🍦
