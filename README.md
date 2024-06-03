@@ -11,5 +11,4 @@ Welcome to my github:
 
 - 📚 I'm a CompEng Student @ UofT
 - 🚨 I like to explore 🔭
-- 💬 Ask me about sports
 - ⚡ Fun fact: I bite ice cream 🍦
